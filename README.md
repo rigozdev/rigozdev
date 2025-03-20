@@ -2,6 +2,14 @@
 
 I’m a **Fullstack Developer** passionate about building web applications and solving problems using modern technologies. I specialize in **Java**, **Spring Boot**, **JavaScript**, **TypeScript**, **React**, and **Node.js**. Always eager to learn and collaborate, I enjoy taking on new challenges, talking about new technologies, and constantly trying to improve my skills.
 
+## 🧑‍💻 About Me:
+- ⚽ **Football fanatic** – I’m a huge fan of **Arsenal** and love watching games whenever I can.
+- 🏎️ **Formula 1 enthusiast** – I follow the races and love keeping up with the teams.
+- 🚴‍♂️ I love **cycling**, whether it’s for fitness or just a relaxing ride.
+- 🎸🤘 **Rock music** is my go-to – I enjoy everything from classic rock to modern sounds.
+- 👾 **League of Legends** super fan – my main champ is **Gnar**!
+- 📚 I’m **constantly learning** and experimenting with new technologies to stay on top of the latest trends.
+
 ## 🛠️ My Personal Stack:
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) 
@@ -21,14 +29,6 @@ I’m a **Fullstack Developer** passionate about building web applications and s
 ![SharePoint](https://img.shields.io/badge/SharePoint-0062A1?style=flat-square&logo=microsoft-sharepoint&logoColor=white) 
 ![Liquid](https://img.shields.io/badge/Liquid-000000?style=flat-square&logo=shopify&logoColor=white) 
 ![Shopify](https://img.shields.io/badge/Shopify-96BF47?style=flat-square&logo=shopify&logoColor=white)
-
-## 🧑‍💻 About Me:
-- ⚽ **Football fanatic** – I’m a huge fan of **Arsenal** and love watching games whenever I can.
-- 🏎️ **Formula 1 enthusiast** – I follow the races and love keeping up with the teams.
-- 🚴‍♂️ I love **cycling**, whether it’s for fitness or just a relaxing ride.
-- 🎸🤘 **Rock music** is my go-to – I enjoy everything from classic rock to modern sounds.
-- 👾 **League of Legends** super fan – my main champ is **Gnar**!
-- 📚 I’m **constantly learning** and experimenting with new technologies to stay on top of the latest trends.
 
 ## 📬 Wanna connect?:
 - **Email**: [rodrigo.gonzaleztr@outlook.com](mailto:rodrigo.gonzaleztr@outlook.com)
