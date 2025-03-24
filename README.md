@@ -30,7 +30,7 @@ I’m a **Fullstack Developer** passionate about building web applications and s
 ![Liquid](https://img.shields.io/badge/Liquid-000000?style=flat-square&logo=shopify&logoColor=white) 
 ![Shopify](https://img.shields.io/badge/Shopify-96BF47?style=flat-square&logo=shopify&logoColor=white)
 
-## 📬 Wanna connect?:
+## 📬 Wanna connect?
 - **Email**: [rodrigo.gonzaleztr@outlook.com](mailto:rodrigo.gonzaleztr@outlook.com)
 - **LinkedIn**: [Rodrigo González](https://www.linkedin.com/in/rodrigo-gonzalezr/)
 - **GitHub**: [rigozdev](https://github.com/rigozdev)
